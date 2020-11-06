@@ -10,7 +10,7 @@
   "license": "GPL-3.0",
   "repository": {
     "type": "git",
-    "url": "https://github.com/gaz492/mcmotdparser.git"
+    "url": "https://github.com/nailujx86/mcmotdparser.git"
   },
   "keywords": [
     "minecraft",
@@ -20,7 +20,7 @@
     "codes",
     "color"
   ],
-  "homepage": "https://github.com/gaz492/mcmotdparser",
+  "homepage": "https://github.com/nailujx86/mcmotdparser",
   "devDependencies": {
     "@babel/core": "^7.1.2",
     "@babel/preset-env": "^7.1.0",
